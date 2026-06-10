@@ -1,5 +1,5 @@
 # sk_malik
 this is my first repository
 <br>
-Author-Malik Shai
+Author- Malik Shaik
 
